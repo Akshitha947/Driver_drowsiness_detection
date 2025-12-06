@@ -1,3 +1,5 @@
+Driver Drowsiness Detection – Web App
+
 A lightweight browser-based application that detects driver drowsiness in real time using JavaScript, MediaPipe Face Mesh, and Eye Aspect Ratio (EAR). The system continuously tracks the user’s eye movements through the webcam and triggers alerts when signs of fatigue or eye closure are detected.
 
 Features
