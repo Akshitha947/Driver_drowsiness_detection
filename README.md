@@ -4,11 +4,11 @@ A lightweight browser-based application that detects driver drowsiness in real t
 
 # Features
 
-Real-time face and eye tracking using MediaPipe
-Calculates Eye Aspect Ratio (EAR) to detect drowsiness
-Visual indicators for eye status
-Audio alert when drowsiness is detected
-Fully runs in the browser — no backend required
+* Real-time face and eye tracking using MediaPipe
+* Calculates Eye Aspect Ratio (EAR) to detect drowsiness
+* Visual indicators for eye status
+* Audio alert when drowsiness is detected
+* Fully runs in the browser — no backend required
 
 # Tech Stack
 
