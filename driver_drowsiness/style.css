@@ -1,0 +1,48 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background: #d0f4de;
+}
+
+h1 {
+    color: #333;
+}
+
+.video-container {
+    position: relative;
+    display: inline-block;
+}
+
+#webcam,
+#overlay {
+    width: 640px;
+    height: 480px;
+    border: 2px solid #333;
+}
+
+#overlay {
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+
+.controls {
+    margin-top: 15px;
+}
+
+button {
+    padding: 10px 15px;
+    margin: 5px;
+    font-size: 20px;
+    cursor: pointer;
+    background-color: #e4c1f9;
+    color: black;
+    border: none;
+    border-radius: 2rem;
+}
+
+#status {
+    margin-top: 15px;
+    font-size: 18px;
+    font-weight: bold;
+}
