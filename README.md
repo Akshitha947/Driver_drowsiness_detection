@@ -12,13 +12,13 @@ A lightweight browser-based application that detects driver drowsiness in real t
 
 # Tech Stack
 
-HTML, CSS, JavaScript
-MediaPipe Face Mesh for eye landmark detection
-Webcam API for live video input
+* HTML, CSS, JavaScript
+* MediaPipe Face Mesh for eye landmark detection
+* Webcam API for live video input
 
 # How It Works
 
-User allows webcam access.
-MediaPipe Face Mesh tracks facial landmarks.
-The Eye Aspect Ratio (EAR) is calculated on every frame.
-If EAR drops below a threshold for a continuous duration, the system triggers an alert sound.
+* User allows webcam access.
+* MediaPipe Face Mesh tracks facial landmarks.
+* The Eye Aspect Ratio (EAR) is calculated on every frame.
+* If EAR drops below a threshold for a continuous duration, the system triggers an alert sound.
